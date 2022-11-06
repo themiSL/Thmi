@@ -53,7 +53,7 @@ global.botname = 'MuBeats - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "MuBeats" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.footer = '[ ◉ Unknown]' //
 
 //database
 global.premium = ['+94758367403'] //ur premium numbers
