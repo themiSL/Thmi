@@ -1,8 +1,8 @@
 {
-  "name": "RED DRAGON BOT",
-  "description": "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘔𝘋 | By: RED-DRAGONᵀᴹ | 𝐌𝐑: ☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐",
+  "name": "Unknown Bot",
+  "description": "Unknown Bot | By: UKᵀᴹ | 𝐌𝐑: ☬Blood",
   "repository": "https://github.com/prabhasha2006/Red-Dragon",
-  "logo": "https://i.ibb.co/VCtXyTK/20220730-002949.jpg",
+  "logo": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAIEAwgMBIgACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAAAwQBAgUHBv/EACoQAQACAgEDAgUEAwAAAAAAAAABAgMRBBIhMQUiQVFhcaEGExQyFYGR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECA//EABkRAQEBAQEBAAAAAAAAAAAAAAABEQISIf/aAAwDAQACEQMRAD8A8NAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbVjbVLj7RvyDP7O2JwzCxjzYvFqzH1hPakTWLUmLR8Jh1nMrO4oVw2t4b/AMW8Rtfw0rWYm8xqPqnycnjVjXTEz87Tr8eUvGQl1xb45r5RrvItF4ma16ftPaVJzaAAAAAAAAAAAAAAAAAAFjDatY3PlXW+H+3NtZI3DXM2pWLzjv57Sxhma26YncT2W8nFxW91La+nlFXDGPJTXf3Q6+LrPqYznwciOjqiaRMbjq7bj5s8O1MV92pNteZiNvRfXv01xfUPRuDy5vbHlpgiI6Ne77vlON6VwsGWL581rTWf6xHT+WfN34nqY5HOy0y45mk7123Dlvof1HkwTquDHTHWIjUVjT55zrcAEUAAAAAAAAAAAAAAAASY579kbMTqQWsV8lpmImI0lreImk2n3RburV90xNbdM/MtTLadzufrEO3PVn1izXrGL1XheofpbHx/5FsWWazjwzH9ov312+zz/wBTweocXPEZcuPJ121WY82/0i9M/wAjizRfBOq9OonJ7Y/KXm3vbJF8/Ipny2jUTSJitI+Ot/Pwluk+OZy72tTdpiZnxP0U0/Kv131HiOyBybAAAAAAAAAAAAAAAAAAAAb0tpJkmencWmEDbqnWmpUx0fT6xkpa2W021PaLTuP+IeZyOq1oqrUy2rSax8WiaYwAigAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/Z",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
